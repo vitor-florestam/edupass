@@ -1,0 +1,26 @@
+.logo{
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  border-bottom: 1px;
+  border-color: black;
+  }
+
+
+
+  div i {
+    font-size: 16px;
+
+    cursor: pointer;
+  }
+
+.inicio{
+ text-decoration: none;
+}
+
+
+
+.input-group-text{
+  background-color: pink;
+}
+

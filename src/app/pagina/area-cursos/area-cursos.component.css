@@ -1,0 +1,13 @@
+#button-basic1{
+  background-color: purple;
+}
+
+#button-basic2{
+  background-color: grey;
+}
+
+.area-cursos{
+  max-height: 100%;
+  display:flex;
+  flex-direction: row;
+}
